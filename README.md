@@ -19,7 +19,11 @@ Let me know if you have any questions.
 Regards, 
 Chris
 
+![image](https://github.com/user-attachments/assets/63c37a0c-bfed-463a-be2b-29a9d3e0bf3a)
+
+**Ideally....**
 ![image](https://github.com/user-attachments/assets/b38105be-1355-4819-b8fd-d7da7cce8688)
 
 
-![image](https://github.com/user-attachments/assets/63c37a0c-bfed-463a-be2b-29a9d3e0bf3a)
+
+
