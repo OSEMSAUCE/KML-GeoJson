@@ -10,7 +10,7 @@ We need only the *polygons*.
 - Another easy format is **KML**
 - There's also Shape files which are much more difficult to manage because of proprietary and costly ArcGIS software.
 - We simply want the polygons to load onto our map. The polygon may however, have some metadata, and if possible preserve that metadata, along with the shape.
-- Here is an [example of the formats]([url](https://drive.google.com/drive/folders/1vBWcN2G2ByaEwRjLUQlDajLVIcmTxGXJ?usp=sharing))
+- Here is an ([example of the formats](https://drive.google.com/drive/folders/1vBWcN2G2ByaEwRjLUQlDajLVIcmTxGXJ?usp=sharing))
 
 
 
